@@ -70,7 +70,7 @@ const Bhavya = {
 > Others
 
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
-![Latex](https://img.shields.io/badge/-Latex-05122A?style=flat&logo=Latex)
+![Latex](https://img.shields.io/badge/-Latex-05122A?style=flat&logo=Latex&logoColor=1f8f75)
 
 ## GitHub Stats
 <a href="https://github.com/TheNewC0der-24/github-readme-stats">
