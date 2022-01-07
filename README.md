@@ -72,11 +72,6 @@ const Bhavya = {
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Latex](https://img.shields.io/badge/-Latex-05122A?style=flat&logo=Latex)
 
-## Coding Stats
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
-
 ## GitHub Stats
 <a href="https://github.com/TheNewC0der-24/github-readme-stats">
   <img width=400 align="center" src="https://github-readme-stats.vercel.app/api?username=TheNewC0der-24&show_icons=true&theme=radical&hide_border=true" />
@@ -90,3 +85,6 @@ const Bhavya = {
 [![Mail Badge](https://img.shields.io/badge/-@__khurana__._-8a3ab9?style=flat&labelColor=8a3ab9&logo=instagram&logoColor=white)](https://instagram.com/__khurana__._)&nbsp;
 [![Twitter Badge](https://img.shields.io/badge/-@Bhavya06001699-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/Bhavya06001699)&nbsp;
 [![Linkedin Badge](https://img.shields.io/badge/-bhavyakhurana24-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhavyakhurana24/)
+
+---
+<h1 align="center">Show some  ❤️  by Starring some of the Repositories!</h1>
