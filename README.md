@@ -25,7 +25,7 @@ const Bhavya = {
     pronouns: 'He' | 'Him',
     livesIn: Jaipur, Rajasthan,
     code: ["HTML", "CSS", "Javascript", "C++", "Python"],
-    askMeAbout: ["Web-Development", "Frontend-Development", "Python"],
+    askMeAbout: ["Web-Development", "Frontend-Development", "Python"]
 }
 ```
 
