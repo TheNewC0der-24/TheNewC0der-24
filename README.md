@@ -88,16 +88,21 @@ Property | Data
 ## GitHub Activity Graph:
 ![Bhavya's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=TheNewC0der-24&hide_border=true&theme=redical)
 
+<!-- <p align="center">
+  <img src="" alt="snake">
+</p> -->
+
 ## GitHub Stats
 <a href="https://github.com/TheNewC0der-24/github-readme-stats">
-  <img width=400 align="center" src="https://github-readme-stats.vercel.app/api?username=TheNewC0der-24&show_icons=true&theme=radical&hide_border=true" />
+  <img width=400 src="https://github-readme-stats.vercel.app/api?username=TheNewC0der-24&show_icons=true&theme=radical&hide_border=true" />
 </a>&nbsp;
 <a href="https://github.com/TheNewC0der-24/github-readme-stats">
-  <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheNewC0der-24&theme=radical&layout=compact&bg_color=0D1117&hide_border=true" />
+  <img width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheNewC0der-24&theme=radical&layout=compact&bg_color=0D1117&hide_border=true" />
 </a>&nbsp;
 
+## Github Streak
 <a href="https://github.com/TheNewC0der-24/github-readme-stats">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TheNewC0der-24" width=400 align="center"></img>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TheNewC0der-24&theme=radical" width=400 align="center"></img>
 </a>
 
 ## Reach Me Out
