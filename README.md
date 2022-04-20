@@ -88,9 +88,11 @@ Property | Data
 ## GitHub Activity Graph:
 ![Bhavya's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=TheNewC0der-24&hide_border=true&theme=redical)
 
-<!-- <p align="center">
-  <img src="" alt="snake">
-</p> -->
+<br>
+
+<p align="center">
+  <img src="https://github.com/TheNewC0der-24/TheNewC0der-24/blob/output/github-contribution-grid-snake.svg" alt="snake">
+</p>
 
 ## GitHub Stats
 <a href="https://github.com/TheNewC0der-24/github-readme-stats">
