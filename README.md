@@ -15,9 +15,9 @@ or <a href="mailto:khuranabhavya24@gmail.com"><b>Email</b></a> me</p>
 
 I am Bhavya Khurana and I'm a Frontend Developer.
 
-An incessant learner and A keen observer, Skilled in Computer Science, Web Development, and Databases. Always ready to learn something new and apply it in real-life Scenarios. Open to Opportunities related to Web Development and Database Management.
+An incessant learner and A keen observer, Skilled in Computer Science, Web Development, and Databases. Always ready to learn something new and apply it in real-life Scenarios. Open to Opportunities related to Web Development.
 
-I'm on track for learning more about Web-Development, C++, Python, and JavaScript.
+I'm on track to learning more about Web-Development, C++, Python, and JavaScript.
 
 ## More About Me
 ```
