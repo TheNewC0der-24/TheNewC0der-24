@@ -12,7 +12,6 @@ or <a href="mailto:khuranabhavya24@gmail.com"><b>Email</b></a> me</p>
 ---
 
 ## About ME
-
 I am Bhavya Khurana and I'm a Frontend Developer.
 
 An incessant learner and A keen observer, Skilled in Computer Science, Web Development, and Databases. Always ready to learn something new and apply it in real-life Scenarios. Open to Opportunities related to Web Development.
@@ -30,7 +29,6 @@ const Bhavya = {
 ```
 
 ## Tech Stack
-
 Property | Data
 --- | --- 
 **Language** | ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C) ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript&logoColor=%23F7DF1E)
