@@ -110,6 +110,15 @@ Property | Data
 ## Weekly Metrics
 <!--START_SECTION:waka-->
 
+```text
+JavaScript   4 hrs 37 mins   ██████████████▒░░░░░░░░░░   57.51 %
+CSS          3 hrs 12 mins   ██████████░░░░░░░░░░░░░░░   39.96 %
+HTML         11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 %
+Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+```
+
 <!--END_SECTION:waka-->
 
 ## Reach Me Out
