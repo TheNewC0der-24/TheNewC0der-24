@@ -12,11 +12,16 @@ or <a href="mailto:khuranabhavya24@gmail.com"><b>Email</b></a> me</p>
 ---
 
 ## About ME
-<p align='justify'>I am Bhavya Khurana and I'm a Frontend Developer from Jaypee University of Engineering and Technology, Guna, India. I am in my final year of my bachelors program, majoring in Computer Science. Furthermore, I have been working on web based development project and frontend related tech like **React.JS**. I am constantly working on improving my skill as a software engineer.</p>
+<p align='justify'>I am <strong>Bhavya Khurana</strong>, and I'm a <strong><em>Web Developer</em></strong> from Jaypee University of Engineering and Technology, Guna, India. I am in my final year of my bachelors program, majoring in Computer Science. Furthermore, I have been working on web based development project and frontend related tech like <strong>React.JS</strong>. I am constantly working on improving my skill as a software engineer.
 
-I am An incessant learner and A keen observer, Skilled in Computer Science, Web Development, and Databases. Always ready to learn something new and apply it in real-life Scenarios. Open to Opportunities related to Web Development.
+I am an incessant learner and a keen observer. Always ready to learn something new and enjoy bringing new ideas to life. I believe everything is an Art when you put your consciousness.
+    
+I'm on track to learning more about Web-Development, C++, Python, and JavaScript. 
+    
+> **_Open to Opportunities related to Web Development._**
 
-I'm on track to learning more about Web-Development, C++, Python, and JavaScript.
+
+</p>
 
 ## More About Me
 ```
