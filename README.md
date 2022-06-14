@@ -99,10 +99,10 @@ Property | Data
 
 ## GitHub Stats
 <a href="https://github.com/TheNewC0der-24/github-readme-stats">
-  <img width=400 src="https://github-readme-stats.vercel.app/api?username=TheNewC0der-24&show_icons=true&theme=radical&hide_border=true" />
+  <img width=400 src="https://github-readme-stats.vercel.app/api?username=TheNewC0der-24&show_icons=true&theme=radical&hide_border=false&count_private=true&layout=compact&include_all_commits=true" />
 </a>&nbsp;
 <a href="https://github.com/TheNewC0der-24/github-readme-stats">
-  <img width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheNewC0der-24&theme=radical&layout=compact&bg_color=0D1117&hide_border=true" />
+  <img width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheNewC0der-24&theme=radical&layout=compact&bg_color=0D1117&hide_border=false" />
 </a>&nbsp;
 
 ## Github Streak
