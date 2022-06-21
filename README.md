@@ -133,4 +133,4 @@ JSON         5 mins          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 [![Linkedin Badge](https://img.shields.io/badge/-bhavyakhurana24-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhavyakhurana24/)
 
 ---
-<h1 align="center">Show some  ❤️  by Starring some of the Repositories!</h1>
+<h3 align="center">Show some ❤️ by giving ⭐ to some of my Repositories!!</h3>
