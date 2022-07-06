@@ -130,7 +130,8 @@ Other           14 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 [![Twitter Badge](https://img.shields.io/badge/-@Bhavya06001699-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/Bhavya06001699)&nbsp;
 [![Linkedin Badge](https://img.shields.io/badge/-bhavyakhurana24-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhavyakhurana24/)
 
-<a href="https://www.buymeacoffee.com/bhavyakhurana"> 
+## Product Hunt
+<a href="https://www.producthunt.com/@bhavya_khurana24"> 
     <img src="https://resources.getvero.com/wp-content/uploads/2014/11/product-hunt-addictive-email-marketing-1200x720.png" height="90" width="150" alt="Bhavya Khurana" ></img>
 </a>
 
