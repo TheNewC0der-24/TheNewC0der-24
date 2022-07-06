@@ -7,7 +7,7 @@
 <p align="center"> You have finally discovered my Github profile. <br>
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
 Ask me anything <a href="https://github.com/TheNewC0der-24/TheNewC0der-24/issues/new"><b>Here</b></a><br>
-or <a href="mailto:khuranabhavya24@gmail.com"><b>Email</b></a> me</p>
+or <a href="mailto:khuranabhavya24@gmail.com" target='_blank'><b>Email</b></a> me</p>
 
 ---
 
@@ -98,15 +98,15 @@ Property | Data
 </p>
 
 ## GitHub Stats
-<a href="https://github.com/TheNewC0der-24/github-readme-stats">
+<a href="https://github.com/TheNewC0der-24/github-readme-stats" target='_blank'>
   <img width=400 src="https://github-readme-stats.vercel.app/api?username=TheNewC0der-24&show_icons=true&theme=radical&hide_border=false&count_private=true&layout=compact&include_all_commits=true" />
 </a>&nbsp;
-<a href="https://github.com/TheNewC0der-24/github-readme-stats">
+<a href="https://github.com/TheNewC0der-24/github-readme-stats" target='_blank'>
   <img width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheNewC0der-24&theme=radical&layout=compact&bg_color=0D1117&hide_border=false" />
 </a>&nbsp;
 
 ## Github Streak
-<a href="https://github.com/TheNewC0der-24/github-readme-stats">
+<a href="https://github.com/TheNewC0der-24/github-readme-stats" target='_blank'>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheNewC0der-24&theme=radical" width=400 align="center"></img>
 </a>
 
@@ -131,12 +131,12 @@ Other           14 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 [![Linkedin Badge](https://img.shields.io/badge/-bhavyakhurana24-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhavyakhurana24/)
 
 ## Product Hunt
-<a href="https://www.producthunt.com/@bhavya_khurana24"> 
+<a href="https://www.producthunt.com/@bhavya_khurana24" target='_blank'> 
     <img src="https://resources.getvero.com/wp-content/uploads/2014/11/product-hunt-addictive-email-marketing-1200x720.png" height="90" width="150" alt="Bhavya Khurana" ></img>
 </a>
 
 ## Support
-<a href="https://www.buymeacoffee.com/bhavyakhurana"> 
+<a href="https://www.buymeacoffee.com/bhavyakhurana" target='_blank'> 
     <img src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg" height="50" width="150" alt="Bhavya Khurana" ></img>
 </a>
 
