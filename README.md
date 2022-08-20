@@ -110,6 +110,9 @@ Property | Data
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheNewC0der-24&theme=radical" width=400 align="center"></img>
 </a>
 
+## GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=TheNewC0der-24&column=-1&no-bg=true&no-frame=true&theme=monokai)](https://github.com/TheNewC0der-24/github-profile-trophy)
+
 ## Reach Me Out
 [![Mail Badge](https://img.shields.io/badge/-khuranabhavya24-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:khuranabhavya24@gmail.com)&nbsp;
 [![Mail Badge](https://img.shields.io/badge/-@__khurana__._-8a3ab9?style=flat&labelColor=8a3ab9&logo=instagram&logoColor=white)](https://instagram.com/__khurana__._)&nbsp;
