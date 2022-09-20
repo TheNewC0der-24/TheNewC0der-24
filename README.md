@@ -24,12 +24,22 @@ I'm on track to learning more about Web-Development, C++, Python, and JavaScript
 </p>
 
 ## More About Me
-```
-const Bhavya = {
-    pronouns: 'He' | 'Him',
-    livesIn: Jaipur, Rajasthan,
-    code: ["HTML", "CSS", "Javascript", "C++", "Python"],
-    askMeAbout: ["Web-Development", "Frontend-Development", "Python"]
+```Javascript
+const Bhavya ="{
+   "proNouns":"He", "Him",
+   "livesIn":"Jaipur", "Rajasthan",
+   "code":[
+      "HTML",
+      "CSS",
+      "Javascript",
+      "C++",
+      "Python"
+   ],
+   "askMeAbout":[
+      "Web-Development",
+      "Frontend-Development",
+      "Python"
+   ]
 }
 ```
 
