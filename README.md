@@ -120,7 +120,7 @@ Property | Data
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheNewC0der-24&theme=radical" width=400 align="center"></img>
 </a>
 
-## Weekly Stats
+## Weekly Development Breakdown
 <!--START_SECTION:waka-->
 
 ```text
