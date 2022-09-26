@@ -122,6 +122,18 @@ Property | Data
 
 ## Weekly Stats
 <!--START_SECTION:waka-->
+
+```text
+Total Time: 23 hrs 36 mins
+
+JavaScript   15 hrs 37 mins  ████████████████▓░░░░░░░░   66.01 %
+HTML         5 hrs 26 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.00 %
+CSS          1 hr 58 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 %
+JSON         28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
+Bash         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
+Other        3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+```
+
 <!--END_SECTION:waka-->
 
 
