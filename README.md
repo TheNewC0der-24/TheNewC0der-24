@@ -120,6 +120,11 @@ Property | Data
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheNewC0der-24&theme=radical" width=400 align="center"></img>
 </a>
 
+## Weekly Stats
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
 ## GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=TheNewC0der-24&column=-1&no-bg=true&no-frame=true&theme=monokai)](https://github.com/TheNewC0der-24/github-profile-trophy)
 
