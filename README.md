@@ -150,6 +150,11 @@ TypeScript   0 secs          -------------------------   00.07 %
     <img src="https://resources.getvero.com/wp-content/uploads/2014/11/product-hunt-addictive-email-marketing-1200x720.png" height="90" width="150" alt="Bhavya Khurana" ></img>
 </a>
 
+## Patreon
+<a href="https://patreon.com/BhavyaKhurana?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=creatorshare_creator" target='_blank'> 
+    <img src="https://blizzardwatch.com/wp-content/uploads/2015/04/patreon-logo.png" height="50" width="150" alt="Bhavya Khurana" ></img>
+</a>
+
 ## Support
 <a href="https://www.buymeacoffee.com/bhavyakhurana" target='_blank'> 
     <img src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg" height="50" width="150" alt="Bhavya Khurana" ></img>
