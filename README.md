@@ -98,11 +98,13 @@ Property | Data
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Latex](https://img.shields.io/badge/-Latex-05122A?style=flat&logo=Latex&logoColor=1f8f75) -->
 
+<!---
 ## GitHub Activity Graph:
 ![Bhavya's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=TheNewC0der-24&hide_border=true&theme=redical)
 
 <br>
-
+--->
+## GitHub Contribution's Graph:
 <p align="center">
   <img src="https://github.com/TheNewC0der-24/TheNewC0der-24/blob/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
