@@ -126,10 +126,13 @@ Property | Data
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 6 hrs 21 mins
+Total Time: 7 hrs 30 mins
 
-JavaScript   6 hrs 8 mins    >>>>>>>>>>>>>>>>>>>>>>>>-   96.56 %
-CSS          13 mins         >------------------------   03.44 %
+JavaScript   7 hrs 4 mins    >>>>>>>>>>>>>>>>>>>>>>>>-   94.17 %
+CSS          13 mins         >------------------------   02.91 %
+XML          12 mins         >------------------------   02.73 %
+HTML         0 secs          -------------------------   00.19 %
+JSON         0 secs          -------------------------   00.01 %
 ```
 
 <!--END_SECTION:waka-->
