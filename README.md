@@ -16,6 +16,8 @@ or <a href="mailto:khuranabhavya24@gmail.com" target='_blank'><b>Email</b></a> m
 
 I am an incessant learner and a keen observer. Always ready to learn something new and enjoy bringing new ideas to life. I believe everything is an Art when we put our consciousness.
     
+I am a creative and skilled Frontend Developer with a passion for building elegant and intuitive user interfaces. With over 1 year of experience, I have worked on various web projects for clients in industries. I have expertise in experience with responsive design, accessibility, and website optimization. I have completed several online certification courses. I am a problem-solver with excellent communication skills and the ability to work well under pressure. I am committed to delivering high-quality solutions that meet user needs and exceed client expectations.
+    
 I'm on track to learning more about JavaScript, React.JS and Angular. 
     
 > **_Open to Opportunities related to Web Development._**
