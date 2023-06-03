@@ -127,14 +127,14 @@ Property | Data
 ## Weekly Development Breakdown
 <!--START_SECTION:waka-->
 
-```text
-Total Time: 8 hrs 49 mins
+```txt
+Total Time: 6 hrs 45 mins
 
-JavaScript   4 hrs 10 mins   >>>>>>>>>>>>-------------   47.26 %
-CSS          1 hr 44 mins    >>>>>--------------------   19.67 %
-HTML         1 hr 22 mins    >>>>---------------------   15.66 %
-JSON         1 hr 12 mins    >>>----------------------   13.70 %
-Git Config   14 mins         >------------------------   02.70 %
+JavaScript   3 hrs 37 mins   >>>>>>>>>>>>>------------   53.52 %
+JSON         1 hr 12 mins    >>>>---------------------   17.90 %
+CSS          51 mins         >>>----------------------   12.64 %
+HTML         45 mins         >>>----------------------   11.10 %
+Git Config   14 mins         >------------------------   03.53 %
 ```
 
 <!--END_SECTION:waka-->
