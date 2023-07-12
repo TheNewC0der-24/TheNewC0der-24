@@ -12,13 +12,16 @@ or <a href="mailto:khuranabhavya24@gmail.com" target='_blank'><b>Email</b></a> m
 ---
 
 ## About ME
-<p align='justify'>I am <strong>Bhavya Khurana</strong>, and I'm a <strong><em>Frontend Developer</em></strong>. I have completed my bachelors program from Jaypee University of Engineering and Technology, Guna, India, majoring in Computer Science and Engineering. Furthermore, I have been working on web based development project with frontend related tech like <strong>ReactJS</strong> and <strong>Angular</strong>. I am constantly working on improving my skills as a software engineer.
 
-I am an incessant learner and a keen observer. Always ready to learn something new and enjoy bringing new ideas to life. I believe everything is an Art when we put our consciousness.
-    
-I am a creative and skilled Frontend Developer with a passion for building elegant and intuitive user interfaces. With over 1 year of experience, I have worked on various web projects for clients in industries. I have expertise in experience with responsive design, accessibility, and website optimization. I have completed several online certification courses. I am a problem-solver with excellent communication skills and the ability to work well under pressure. I am committed to delivering high-quality solutions that meet user needs and exceed client expectations.
-    
-I'm on track to learning more about JavaScript, React.JS and Angular. 
+<p align='justify'>
+My name is <strong>Bhavya Khurana</strong>, and I am a <strong><em>Frontend Developer</em></strong>. I graduated from Jaypee University of Engineering and Technology in Guna, India, with a major in Computer Science and Engineering. I have a strong focus on web development, particularly in frontend technologies such as <strong>ReactJS</strong> and <strong>Angular</strong>. I am constantly striving to enhance my skills as a software engineer.
+
+I am passionate about learning and have a keen eye for detail. I am always eager to acquire new knowledge and enjoy bringing innovative ideas to life. I believe that every task becomes an art form when approached with mindfulness.
+
+As a creative and proficient Frontend Developer with over 1 year of experience, I have successfully worked on various web projects for clients across different industries. My expertise lies in responsive design, accessibility, and website optimization. Additionally, I have completed several online certification courses. I am a problem-solver with excellent communication skills, and I thrive under pressure. My commitment is to deliver high-quality solutions that not only meet user needs but also exceed client expectations.
+
+Currently, I am focused on expanding my knowledge of JavaScript, ReactJS, and Angular, and I am actively engaged in furthering my expertise in these areas.
+</p>
     
 > **_Open to Opportunities related to Web Development._**
 
