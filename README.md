@@ -4,6 +4,12 @@
 
 <div align="center"><img src="https://readme-typing-svg.herokuapp.com?color=%23FFD617&size=20&multiline=true&width=515&lines=Welcome+to+TheNewC0der-24's+Github+Profile" alt="Welcome!"/></div>
 
+<div align="center">
+    <a href="https://visitcount.itsvg.in">
+      <img src="https://visitcount.itsvg.in/api?id=BhavyaKhurana&label=Profile%20Views&color=6&icon=0&pretty=true" />
+    </a>
+</div>
+
 <p align="center"> You have finally discovered my Github profile. <br>
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
 Ask me anything <a href="https://github.com/TheNewC0der-24/TheNewC0der-24/issues/new"><b>Here</b></a><br>
@@ -12,7 +18,6 @@ or <a href="mailto:khuranabhavya24@gmail.com" target='_blank'><b>Email</b></a> m
 ---
 
 ## About ME
-
 <p align='justify'>
 My name is <strong>Bhavya Khurana</strong>, and I am a <strong><em>Frontend Developer</em></strong>. I graduated from Jaypee University of Engineering and Technology in Guna, India, with a major in Computer Science and Engineering. I have a strong focus on web development, particularly in frontend technologies such as <strong>ReactJS</strong> and <strong>Angular</strong>. I am constantly striving to enhance my skills as a software engineer.
 
@@ -144,6 +149,10 @@ Markdown     7 mins          -------------------------   01.40 %
 [![trophy](https://github-profile-trophy.vercel.app/?username=TheNewC0der-24&column=-1&no-bg=true&no-frame=true&theme=monokai)](https://github.com/TheNewC0der-24/github-profile-trophy)
 
 ## Social
+<a href='https://bento.me/bhavya-khurana' target="_blank">
+    <img alt='Bento' src='https://img.shields.io/badge/Bento-100000?style=flat-square&logo=Bento&logoColor=FFFFFF&labelColor=768cff&color=768cff'/>
+</a> &nbsp;
+
 <a href='https://www.facebook.com/bhavya.khurana.399/' target="_blank">
     <img alt='Facebook' src='https://img.shields.io/badge/Facebook-100000?style=flat-square&logo=Facebook&logoColor=white&labelColor=3b5998&color=3b5998'/>
 </a> &nbsp;
