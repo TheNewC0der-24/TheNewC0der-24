@@ -28,24 +28,21 @@ Currently, I am focused on expanding my knowledge of JavaScript, ReactJS, and An
 
 </p>
 
-## More About Me
-```Javascript
-const Bhavya ="{
-   "proNouns":"He", "Him",
-   "livesIn":"Jaipur", "Rajasthan",
-   "code":[
-      "HTML",
-      "CSS",
-      "Javascript",
-      "C++",
-      "Python"
-   ],
-   "askMeAbout":[
-      "Web-Development",
-      "Frontend-Development",
-      "Python"
-   ]
-}
+### More
+```json
+[
+    "Name": "Bhavya Khurana",
+    "Pronouns": [
+        "He", "Him"
+    ],
+    "Lives In": "Jaipur, Rajasthan",
+    "I Code's in": [
+        "HTML", "CSS", "Javascript", "Typescript", "React", "Angular"
+    ],
+    "Traits": [
+        "Dev", "Design", "Content Writer"
+    ]
+]
 ```
 
 ## Tech Stack
@@ -146,30 +143,52 @@ Markdown     7 mins          -------------------------   01.40 %
 ## GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=TheNewC0der-24&column=-1&no-bg=true&no-frame=true&theme=monokai)](https://github.com/TheNewC0der-24/github-profile-trophy)
 
-## Reach Me Out
-[![Mail Badge](https://img.shields.io/badge/-khuranabhavya24-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:khuranabhavya24@gmail.com)&nbsp;
-[![Mail Badge](https://img.shields.io/badge/-@__khurana__._-8a3ab9?style=flat&labelColor=8a3ab9&logo=instagram&logoColor=white)](https://instagram.com/__khurana__._)&nbsp;
-[![Twitter Badge](https://img.shields.io/badge/-@Bhavya06001699-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/Bhavya06001699)&nbsp;
-[![Linkedin Badge](https://img.shields.io/badge/-bhavyakhurana24-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhavyakhurana24/)
+## Social
+<a href='https://www.facebook.com/bhavya.khurana.399/' target="_blank">
+    <img alt='Facebook' src='https://img.shields.io/badge/Facebook-100000?style=flat-square&logo=Facebook&logoColor=white&labelColor=3b5998&color=3b5998'/>
+</a> &nbsp;
 
-## Product Hunt
-<a href="https://www.producthunt.com/@bhavya_khurana24" target='_blank'> 
-    <img src="https://resources.getvero.com/wp-content/uploads/2014/11/product-hunt-addictive-email-marketing-1200x720.png" height="90" width="150" alt="Bhavya Khurana" ></img>
+<a href='mailto:khuranabhavya24@gmail.com' target="_blank">
+    <img alt='Gmail' src='https://img.shields.io/badge/Gmail-100000?style=flat-square&logo=Gmail&logoColor=white&labelColor=BB001B&color=BB001B'/>
+</a> &nbsp;
+
+<a href='https://hashnode.com/@BhavyaKhurana' target="_blank">
+    <img alt='Hashnode' src='https://img.shields.io/badge/Hashnode-100000?style=flat-square&logo=Hashnode&logoColor=white&labelColor=2962FF&color=2962FF'/>
+</a> &nbsp;
+
+<a href='https://www.instagram.com/__cynophilist__._/' target="_blank">
+    <img alt='Instagram' src='https://img.shields.io/badge/Instagram-100000?style=flat-square&logo=Instagram&logoColor=white&labelColor=C13584&color=C13584'/>
+</a> &nbsp;
+
+<a href='https://www.linkedin.com/in/bhavya-khurana/' target="_blank">
+    <img alt='LinkedIn' src='https://img.shields.io/badge/LinkedIn-100000?style=flat-square&logo=LinkedIn&logoColor=white&labelColor=0072b1&color=0072b1'/>
+</a> &nbsp;
+
+<a href='https://medium.com/@bhavyakhurana24' target="_blank">
+    <img alt='Medium' src='https://img.shields.io/badge/Medium-100000?style=flat-square&logo=Medium&logoColor=white&labelColor=000000&color=000000'/>
+</a> &nbsp;
+
+<a href='https://stackoverflow.com/users/16262496/bhavya-khurana' target="_blank">
+    <img alt='Stackoverflow' src='https://img.shields.io/badge/Stackoverflow-100000?style=flat-square&logo=Stackoverflow&logoColor=white&labelColor=F48024&color=F48024'/>
+</a> &nbsp;
+
+<a href='https://twitter.com/Cynophilist_B' target="_blank">
+    <img alt='Twitter' src='https://img.shields.io/badge/Twitter-100000?style=flat-square&logo=Twitter&logoColor=white&labelColor=00acee&color=00acee'/>
 </a>
 
-## Patreon
-<a href="https://patreon.com/BhavyaKhurana?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=creatorshare_creator" target='_blank'> 
-    <img src="https://blizzardwatch.com/wp-content/uploads/2015/04/patreon-logo.png" height="50" width="150" alt="Bhavya Khurana" ></img>
+
+## Support Me
+<a href='https://www.buymeacoffee.com/bhavyakhurana' target="_blank">
+    <img alt='buymeacoffee' src='https://img.shields.io/badge/buy_me a coffee-100000?style=for-the-badge&logo=buymeacoffee&logoColor=000000&labelColor=ffdd00&color=ffdd00'/>
+</a> &nbsp;
+
+<a href='https://www.patreon.com/BhavyaKhurana' target="_blank">
+    <img alt='Patreon' src='https://img.shields.io/badge/Patreon-100000?style=for-the-badge&logo=Patreon&logoColor=white&labelColor=FF424D&color=FF424D'/>
+</a> &nbsp;
+
+<a href='https://www.producthunt.com/@bhavya_khurana24' target="_blank">
+    <img alt='Producthunt' src='https://img.shields.io/badge/Product_Hunt-100000?style=for-the-badge&logo=Producthunt&logoColor=white&labelColor=da552f&color=da552f'/>
 </a>
-
-## Support
-<a href="https://www.buymeacoffee.com/bhavyakhurana" target='_blank'> 
-    <img src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg" height="50" width="150" alt="Bhavya Khurana" ></img>
-</a>
-
-
-
-
 
 ---
 <h3 align="center">Show some ❤️ by giving ⭐ to some of my Repositories!!</h3>
