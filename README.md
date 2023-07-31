@@ -105,23 +105,12 @@ Property | Data
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Latex](https://img.shields.io/badge/-Latex-05122A?style=flat&logo=Latex&logoColor=1f8f75) -->
 
-<!---
-## GitHub Activity Graph:
-![Bhavya's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=TheNewC0der-24&hide_border=true&theme=redical)
-
-<br>
---->
-## GitHub Contribution's Graph:
-<p align="center">
-  <img src="https://github.com/TheNewC0der-24/TheNewC0der-24/blob/output/github-contribution-grid-snake.svg" alt="snake">
-</p>
-
 ## GitHub Stats
 <a href="https://github.com/TheNewC0der-24/github-readme-stats" target='_blank'>
   <img width=400 src="https://github-readme-stats.vercel.app/api?username=TheNewC0der-24&show_icons=true&theme=radical&hide_border=false&count_private=true&layout=compact&include_all_commits=true" />
 </a>&nbsp;
 <a href="https://github.com/TheNewC0der-24/github-readme-stats" target='_blank'>
-  <img width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheNewC0der-24&theme=radical&layout=compact&bg_color=0D1117&hide_border=false" />
+  <img width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheNewC0der-24&theme=radical&layout=donut&bg_color=0D1117&hide_border=false" />
 </a>&nbsp;
 
 ## Github Streak
@@ -129,24 +118,11 @@ Property | Data
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheNewC0der-24&theme=radical" width=400 align="center"></img>
 </a>
 
-## Weekly Development Breakdown
-<!--START_SECTION:waka-->
-
-```txt
-Total Time: 8 hrs 23 mins
-
-JavaScript   5 hrs 44 mins   >>>>>>>>>>>>>>>>>--------   68.39 %
-HTML         1 hr 9 mins     >>>----------------------   13.87 %
-CSS          39 mins         >>-----------------------   07.92 %
-JSON         35 mins         >>-----------------------   07.14 %
-Markdown     7 mins          -------------------------   01.40 %
-```
-
-<!--END_SECTION:waka-->
-
-
 ## GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=TheNewC0der-24&column=-1&no-bg=true&no-frame=true&theme=monokai)](https://github.com/TheNewC0der-24/github-profile-trophy)
+
+## Contribution Graph
+[![Bhavya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TheNewC0der-24&theme=github-compact)](https://github.com/TheNewC0der-24/github-readme-activity-graph)
 
 ## Social
 <a href='https://bento.me/bhavya-khurana' target="_blank">
