@@ -113,6 +113,14 @@ Property | Data
   <img width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheNewC0der-24&theme=radical&layout=donut&bg_color=0D1117&hide_border=false" />
 </a>&nbsp;
 
+## GitHub Overtime Stats
+
+[![TheNewC0der-24's GitHub | Stats](https://stats.quine.sh/TheNewC0der-24/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=TheNewC0der-24)
+
+[![TheNewC0der-24's GitHub | Languages Over Time](https://stats.quine.sh/TheNewC0der-24/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=TheNewC0der-24)
+
+[![TheNewC0der-24's GitHub | Topics Over Time](https://stats.quine.sh/TheNewC0der-24/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=TheNewC0der-24)
+
 ## Github Streak
 <a href="https://github.com/TheNewC0der-24/github-readme-stats" target='_blank'>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheNewC0der-24&theme=radical" width=400 align="center"></img>
