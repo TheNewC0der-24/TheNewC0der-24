@@ -4,12 +4,6 @@
 
 <div align="center"><img src="https://readme-typing-svg.herokuapp.com?color=%23FFD617&size=20&multiline=true&width=515&lines=Welcome+to+TheNewC0der-24's+Github+Profile" alt="Welcome!"/></div>
 
-<div align="center">
-    <a href="https://visitcount.itsvg.in">
-      <img src="https://visitcount.itsvg.in/api?id=BhavyaKhurana&label=Profile%20Views&color=6&icon=0&pretty=true" />
-    </a>
-</div>
-
 <p align="center"> You have finally discovered my Github profile. <br>
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
 Ask me anything <a href="https://github.com/TheNewC0der-24/TheNewC0der-24/issues/new"><b>Here</b></a><br>
@@ -19,13 +13,14 @@ or <a href="mailto:khuranabhavya24@gmail.com" target='_blank'><b>Email</b></a> m
 
 ## About ME
 <p align='justify'>
-My name is <strong>Bhavya Khurana</strong>, and I am a <strong><em>Frontend Developer</em></strong>. I graduated from Jaypee University of Engineering and Technology in Guna, India, with a major in Computer Science and Engineering. I have a strong focus on web development, particularly in frontend technologies such as <strong>ReactJS</strong> and <strong>Angular</strong>. I am constantly striving to enhance my skills as a software engineer.
+Hey there👋! I'm **Bhavya Khurana**, a passionate frontend developer and content writer with a soft spot for dogs 🐶. I spend my days crafting user-friendly interfaces and bringing creative designs to life. When I'm not coding, you'll often find me typing away, weaving engaging content for various platforms. I believe in the power of words to inspire and connect people.
 
-I am passionate about learning and have a keen eye for detail. I am always eager to acquire new knowledge and enjoy bringing innovative ideas to life. I believe that every task becomes an art form when approached with mindfulness.
+In the tech world, I'm well-versed in HTML, CSS, JavaScript and, TypeScript, constantly exploring new frameworks and tools to enhance user experiences. I enjoy the challenge of optimizing websites for performance and responsiveness across different devices.
 
-As a creative and proficient Frontend Developer with over 1 year of experience, I have successfully worked on various web projects for clients across different industries. My expertise lies in responsive design, accessibility, and website optimization. Additionally, I have completed several online certification courses. I am a problem-solver with excellent communication skills, and I thrive under pressure. My commitment is to deliver high-quality solutions that not only meet user needs but also exceed client expectations.
+I'm obsessed with making things and even more obsessed with making things better.
+But that's not all—I'm also a dedicated dog enthusiast. Whether it's going on long walks, playing fetch at the park, or cuddling up with my furry friends, I find immense joy and relaxation in the company of canines.
 
-Currently, I am focused on expanding my knowledge of JavaScript, ReactJS, and Angular, and I am actively engaged in furthering my expertise in these areas.
+Feel free to explore my work and writing samples to get a taste of my work. If you have any frontend development or content writing projects in mind, or simply want to chat about dogs, I'd love to connect with you! Let's collaborate and create something pawsome together 🐾
 </p>
     
 > **_Open to Opportunities related to Web Development._**
@@ -36,17 +31,27 @@ Currently, I am focused on expanding my knowledge of JavaScript, ReactJS, and An
 ### More
 ```json
 [
-    "Name": "Bhavya Khurana",
-    "Pronouns": [
-        "He", "Him"
-    ],
-    "Lives In": "Jaipur, Rajasthan",
-    "I Code's in": [
-        "HTML", "CSS", "Javascript", "Typescript", "React", "Angular"
-    ],
-    "Traits": [
-        "Dev", "Design", "Content Writer"
-    ]
+    {
+        "Name": "Bhavya Khurana",
+        "Pronouns": [
+            "He",
+            "Him"
+        ],
+        "Lives In": "Jaipur, Rajasthan",
+        "I Code's in": [
+            "HTML",
+            "CSS",
+            "Javascript",
+            "Typescript",
+            "React",
+            "Angular"
+        ],
+        "Traits": [
+            "Dev",
+            "Design",
+            "Content Writer"
+        ]
+    }
 ]
 ```
 
