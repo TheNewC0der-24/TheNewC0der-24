@@ -166,7 +166,7 @@ Property | Data
     <img alt='Medium' src='https://img.shields.io/badge/Medium-100000?style=flat-square&logo=Medium&logoColor=white&labelColor=000000&color=000000'/>
 </a> &nbsp;
 
-<a href='https://stackoverflow.com/users/16262496/bhavya-khurana' target="_blank">
+<a href='https://stackoverflow.com/users/23147565/bhavya-khurana' target="_blank">
     <img alt='Stackoverflow' src='https://img.shields.io/badge/Stackoverflow-100000?style=flat-square&logo=Stackoverflow&logoColor=white&labelColor=F48024&color=F48024'/>
 </a> &nbsp;
 
