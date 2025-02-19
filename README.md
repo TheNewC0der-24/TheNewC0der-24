@@ -13,11 +13,12 @@ or <a href="mailto:khuranabhavya24@gmail.com" target='_blank'><b>Email</b></a> m
 
 ## About ME
 <p align='justify'>
-Hey there👋! I'm **Bhavya Khurana**, a passionate frontend developer and content writer with a soft spot for dogs 🐶. I spend my days crafting user-friendly interfaces and bringing creative designs to life. When I'm not coding, you'll often find me typing away, weaving engaging content for various platforms. I believe in the power of words to inspire and connect people.
+Hey there👋! I'm <strong>Bhavya Khurana</strong>, a passionate frontend developer and content writer with a soft spot for dogs 🐶. I spend my days crafting user-friendly interfaces and bringing creative designs to life. When I'm not coding, you'll often find me typing away, weaving engaging content for various platforms. I believe in the power of words to inspire and connect people.
 
 In the tech world, I'm well-versed in HTML, CSS, JavaScript and, TypeScript, constantly exploring new frameworks and tools to enhance user experiences. I enjoy the challenge of optimizing websites for performance and responsiveness across different devices.
 
-I'm obsessed with making things and even more obsessed with making things better.
+> I'm obsessed with making things and even more obsessed with making things better.
+
 But that's not all—I'm also a dedicated dog enthusiast. Whether it's going on long walks, playing fetch at the park, or cuddling up with my furry friends, I find immense joy and relaxation in the company of canines.
 
 Feel free to explore my work and writing samples to get a taste of my work. If you have any frontend development or content writing projects in mind, or simply want to chat about dogs, I'd love to connect with you! Let's collaborate and create something pawsome together 🐾
