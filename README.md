@@ -71,35 +71,30 @@ Skills | I have
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=TheNewC0der-24&rank_icon=github&hide_title=true&custom_title=Stats&show_icons=true&include_all_commits=true&theme=radical)](https://github-stats-extended.vercel.app/api?username=TheNewC0der-24&rank_icon=github&hide_title=true&custom_title=Stats&show_icons=true&include_all_commits=true&theme=radical) &nbsp;
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=TheNewC0der-24&layout=compact&langs_count=5&theme=radical)](https://github-stats-extended.vercel.app/api/top-langs?username=TheNewC0der-24&layout=donut&langs_count=5&theme=radical)
 
+<!--
 ## GitHub Overtime Stats
 
 [![TheNewC0der-24's GitHub | Stats](https://stats.quine.sh/TheNewC0der-24/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=TheNewC0der-24)
 
 [![TheNewC0der-24's GitHub | Languages Over Time](https://stats.quine.sh/TheNewC0der-24/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=TheNewC0der-24)
 
-[![TheNewC0der-24's GitHub | Topics Over Time](https://stats.quine.sh/TheNewC0der-24/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=TheNewC0der-24)
+[![TheNewC0der-24's GitHub | Topics Over Time](https://stats.quine.sh/TheNewC0der-24/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=TheNewC0der-24) -->
 
 ## Github Streak
 <a href="https://github.com/TheNewC0der-24/github-readme-stats" target='_blank'>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheNewC0der-24&theme=radical" width=400 align="center"></img>
 </a>
 
+<!--
 ## GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=TheNewC0der-24&column=-1&no-bg=true&no-frame=true&theme=monokai)](https://github.com/TheNewC0der-24/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=TheNewC0der-24&column=-1&no-bg=true&no-frame=true&theme=monokai)](https://github.com/TheNewC0der-24/github-profile-trophy) -->
 
+<!--
 ## Contribution Graph
-[![Bhavya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TheNewC0der-24&theme=github-compact)](https://github.com/TheNewC0der-24/github-readme-activity-graph)
+[![Bhavya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TheNewC0der-24&theme=github-compact)](https://github.com/TheNewC0der-24/github-readme-activity-graph) -->
 
 ## Social
-<a href='https://bento.me/bhavya-khurana' target="_blank">
-    <img alt='Bento' src='https://img.shields.io/badge/Bento-100000?style=flat-square&logo=Bento&logoColor=FFFFFF&labelColor=768cff&color=768cff'/>
-</a> &nbsp;
-
-<a href='https://www.facebook.com/bhavya.khurana.399/' target="_blank">
-    <img alt='Facebook' src='https://img.shields.io/badge/Facebook-100000?style=flat-square&logo=Facebook&logoColor=white&labelColor=3b5998&color=3b5998'/>
-</a> &nbsp;
-
-<a href='mailto:khuranabhavya24@gmail.com' target="_blank">
+<a href='mailto:bhavyakhurana.dev@gmail.com' target="_blank">
     <img alt='Gmail' src='https://img.shields.io/badge/Gmail-100000?style=flat-square&logo=Gmail&logoColor=white&labelColor=BB001B&color=BB001B'/>
 </a> &nbsp;
 
@@ -115,18 +110,7 @@ Skills | I have
     <img alt='LinkedIn' src='https://img.shields.io/badge/LinkedIn-100000?style=flat-square&logo=LinkedIn&logoColor=white&labelColor=0072b1&color=0072b1'/>
 </a> &nbsp;
 
-<a href='https://medium.com/@bhavyakhurana24' target="_blank">
-    <img alt='Medium' src='https://img.shields.io/badge/Medium-100000?style=flat-square&logo=Medium&logoColor=white&labelColor=000000&color=000000'/>
-</a> &nbsp;
-
-<a href='https://stackoverflow.com/users/23147565/bhavya-khurana' target="_blank">
-    <img alt='Stackoverflow' src='https://img.shields.io/badge/Stackoverflow-100000?style=flat-square&logo=Stackoverflow&logoColor=white&labelColor=F48024&color=F48024'/>
-</a> &nbsp;
-
-<a href='https://twitter.com/Cynophilist_B' target="_blank">
-    <img alt='Twitter' src='https://img.shields.io/badge/Twitter-100000?style=flat-square&logo=Twitter&logoColor=white&labelColor=00acee&color=00acee'/>
-</a>
-
+<a href='https://x.com/Cynophilist_B' target="_blank"><img alt='x' src='https://img.shields.io/badge/Cynophilist_B-100000?style=flat-square&logo=x&logoColor=white&labelColor=black&color=black'/></a>
 
 ## Support Me
 <a href='https://www.buymeacoffee.com/bhavyakhurana' target="_blank">
