@@ -110,7 +110,9 @@ Skills | I have
     <img alt='LinkedIn' src='https://img.shields.io/badge/LinkedIn-100000?style=flat-square&logo=LinkedIn&logoColor=white&labelColor=0072b1&color=0072b1'/>
 </a> &nbsp;
 
-<a href='https://x.com/Cynophilist_B' target="_blank"><img alt='x' src='https://img.shields.io/badge/Cynophilist_B-100000?style=flat-square&logo=x&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://x.com/Cynophilist_B' target="_blank">
+    <img alt='x' src='https://img.shields.io/badge/Cynophilist_B-100000?style=flat-square&logo=x&logoColor=white&labelColor=black&color=black'/>
+</a>
 
 ## Support Me
 <a href='https://www.buymeacoffee.com/bhavyakhurana' target="_blank">
