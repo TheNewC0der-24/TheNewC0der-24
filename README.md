@@ -69,9 +69,7 @@ Skills | I have
 
 ## GitHub Stats
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=TheNewC0der-24&rank_icon=github&hide_title=true&custom_title=Stats&show_icons=true&include_all_commits=true&theme=radical)](https://github-stats-extended.vercel.app/api?username=TheNewC0der-24&rank_icon=github&hide_title=true&custom_title=Stats&show_icons=true&include_all_commits=true&theme=radical) &nbsp;
-<a href="https://github.com/TheNewC0der-24/github-readme-stats-extended" target='_blank'>
-  <img width=400 src="https://github-readme-stats-extended.vercel.app/api/top-langs/?username=TheNewC0der-24&theme=radical&layout=donut&bg_color=0D1117&hide_border=false" />
-</a>&nbsp;
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=TheNewC0der-24&layout=compact&langs_count=5&theme=radical)](https://github-stats-extended.vercel.app/api/top-langs?username=TheNewC0der-24&layout=donut&langs_count=5&theme=radical)
 
 ## GitHub Overtime Stats
 
