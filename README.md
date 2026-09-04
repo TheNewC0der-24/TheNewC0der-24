@@ -18,13 +18,21 @@ or <a href="mailto:bhavyakhurana.dev@gmail.com"><b>Email</b></a> me</p>
 <p align='justify'>
 Hey there👋! I'm <strong>Bhavya Khurana</strong>, a passionate frontend developer and content writer with a soft spot for dogs 🐶. I spend my days crafting user-friendly interfaces and bringing creative designs to life. When I'm not coding, you'll often find me typing away, weaving engaging content for various platforms. I believe in the power of words to inspire and connect people.
 
-In the tech world, I'm well-versed in HTML, CSS, JavaScript and, TypeScript, constantly exploring new frameworks and tools to enhance user experiences. I enjoy the challenge of optimizing websites for performance and responsiveness across different devices.
+I have 3+ years of experience building enterprise and government web applications, with a strong focus on React.js, Next.js, TypeScript, JavaScript, HTML, and CSS. I've worked on large-scale platforms used by thousands of users, where performance, reliability, accessibility, security, and maintainability aren't just nice-to-haves — they're essential.
 
-> I'm obsessed with making things and even more obsessed with making things better.
+I'm particularly interested in building <b>scalable frontend</b> architectures, optimizing application performance, designing reusable components, integrating REST APIs, and creating responsive experiences that work seamlessly across devices. I've also worked with technologies and tools across the modern frontend ecosystem, including <b>Redux, Zustand, React Query, Material UI, Vite, Firebase, Keycloak, Docker, and PostgreSQL</b>.
 
-But that's not all—I'm also a dedicated dog enthusiast. Whether it's going on long walks, playing fetch at the park, or cuddling up with my furry friends, I find immense joy and relaxation in the company of canines.
+Beyond traditional frontend development, I'm exploring the intersection of <b>frontend engineering and AI</b> — including <b>AI integrations, Microsoft Copilot, Copilot Studio, RAG, LLM-powered applications, and AI-driven experiences</b>. I enjoy learning how emerging technologies can be turned into practical products rather than simply following trends.
 
-Feel free to explore my work and writing samples to get a taste of my work. If you have any frontend development or content writing projects in mind, or simply want to chat about dogs, I'd love to connect with you! Let's collaborate and create something pawsome together 🐾
+> I'm obsessed with making things — and even more obsessed with making them better.
+
+That mindset drives how I approach development. Whether it's improving a slow component, simplifying a complicated piece of code, designing a better API interaction layer, or building a more intuitive user experience, I believe there's almost always a better way to do it.
+
+When I'm away from my laptop, I'm usually spending time with dogs 🐶, exploring new ideas, writing, or learning something new. I'm also passionate about content writing and enjoy using words to explain ideas, tell stories, and connect with people.
+
+I'm always interested in building meaningful products, solving interesting problems, and collaborating with people who care about what they create.
+
+Explore my work, check out my projects, and feel free to connect. Whether you want to talk frontend engineering, AI, building products, writing or just dogs — I'm always up for a conversation. 🐾
 </p>
     
 > **_Open to Opportunities related to Web Development._**
