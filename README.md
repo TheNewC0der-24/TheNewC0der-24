@@ -67,54 +67,10 @@ Skills | I have
 **Tools**  | ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github) <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='gitlab' src='https://img.shields.io/badge/GitLab-100000?style=flat&logo=gitlab&logoColor=da4127&labelColor=05122A&color=05122A'/></a> <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='postman' src='https://img.shields.io/badge/Postman-100000?style=flat&logo=postman&logoColor=f76936&labelColor=05122A&color=05122A'/></a> <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='firebase' src='https://img.shields.io/badge/Firebase-100000?style=flat&logo=firebase&logoColor=ee8c1c&labelColor=05122A&color=05122A'/></a> <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='figma' src='https://img.shields.io/badge/Figma-100000?style=flat&logo=figma&logoColor=0ac87e&labelColor=05122A&color=05122A'/></a>
 **Others** | ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown) ![Latex](https://img.shields.io/badge/-Latex-05122A?style=flat&logo=Latex&logoColor=1f8f75)
 
-<!-- > Programming
-
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-
-> Web Technologies
-
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Next JS](https://img.shields.io/badge/-Next-05122A?style=flat&logo=next.js);
-
-> Frameworks
-
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-![jQuery](https://img.shields.io/badge/-jQuery-05122A?style=flat&logo=jQuery&logoColor=0769ad)
-
-> Tools
-
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Heroku](https://img.shields.io/badge/-Heroku-05122A?style=flat&logo=Heroku)&nbsp;
-![Netlify](https://img.shields.io/badge/-Netlify-05122A?style=flat&logo=Netlify)&nbsp;
-
-> Code Editors
-
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Atom](https://img.shields.io/badge/-Atom-05122A?style=flat&logo=Atom)&nbsp;
-![Pycharm](https://img.shields.io/badge/-Pycharm-05122A?style=flat&logo=Pycharm&logoColor=a1eb34)&nbsp;
-
-> Photo Editing
-
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-![Lightroom](https://img.shields.io/badge/-Lightroom-05122A?style=flat&logo=adobe-Lightroom)&nbsp;
-
-> Others
-
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
-![Latex](https://img.shields.io/badge/-Latex-05122A?style=flat&logo=Latex&logoColor=1f8f75) -->
-
 ## GitHub Stats
-<a href="https://github.com/TheNewC0der-24/github-readme-stats" target='_blank'>
-  <img width=400 src="https://github-readme-stats.vercel.app/api?username=TheNewC0der-24&show_icons=true&theme=radical&hide_border=false&count_private=true&layout=compact&include_all_commits=true" />
-</a>&nbsp;
-<a href="https://github.com/TheNewC0der-24/github-readme-stats" target='_blank'>
-  <img width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheNewC0der-24&theme=radical&layout=donut&bg_color=0D1117&hide_border=false" />
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=TheNewC0der-24&rank_icon=github&hide_title=true&custom_title=Stats&show_icons=true&include_all_commits=true&theme=radical)](https://github-stats-extended.vercel.app/api?username=TheNewC0der-24&rank_icon=github&hide_title=true&custom_title=Stats&show_icons=true&include_all_commits=true&theme=radical) &nbsp;
+<a href="https://github.com/TheNewC0der-24/github-readme-stats-extended" target='_blank'>
+  <img width=400 src="https://github-readme-stats-extended.vercel.app/api/top-langs/?username=TheNewC0der-24&theme=radical&layout=donut&bg_color=0D1117&hide_border=false" />
 </a>&nbsp;
 
 ## GitHub Overtime Stats
