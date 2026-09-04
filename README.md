@@ -57,9 +57,11 @@ Feel free to explore my work and writing samples to get a taste of my work. If y
 ```
 
 ## Tech Stack
-Property | Data
+Skills | I have
 --- | --- 
-**Language** | ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C) ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript&logoColor=%3178c6)
+**AI Automation & Analytics** | ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=ffdd54) ![Microsoft Copilot Studio](https://img.shields.io/badge/-Microsoft%20Copilot%20Studio-05122A?style=flat) ![Power Automate](https://img.shields.io/badge/-Power%20Automate-05122A?style=flat) ![Power Apps](https://img.shields.io/badge/-Power%20Apps-05122A?style=flat) ![Power BI](https://img.shields.io/badge/-Power%20Bi-05122A?style=flat)
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript&logoColor=%3178c6)
 **Web Technologies**  | ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5) ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6) ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript) ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react) ![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular&logoColor=b52e31) ![Next JS](https://img.shields.io/badge/-Next-05122A?style=flat&logo=next.js)
 **Frameworks, Platforms and Libraries** | ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C) ![MUI](https://img.shields.io/badge/-MUI-05122A?style=flat&logo=mui&logoColor=%230081CB) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=tailwind-css&logoColor=%2338B2AC) ![jQuery](https://img.shields.io/badge/-jQuery-05122A?style=flat&logo=jQuery&logoColor=0769ad)  ![NPM](https://img.shields.io/badge/-NPM-05122A?style=flat&logo=npm&logoColor=white) ![Yarn](https://img.shields.io/badge/-Yarn-05122A?style=flat&logo=yarn&logoColor=#2c8ebb) ![Vite](https://img.shields.io/badge/-Vite-05122A?style=flat&logo=vite) ![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux&logoColor=%23593d88)       
 **Databases**  | ![MySql](https://img.shields.io/badge/-MySql-05122A?style=flat&logo=MySql)
