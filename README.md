@@ -10,7 +10,7 @@
     You have finally discovered my Github profile. <br>
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
 Ask me anything <a href="https://github.com/TheNewC0der-24/TheNewC0der-24/issues/new"><b>Here</b></a> <br>
-or <a href="mailto:bhavyakhurana.dev@gmail.com" target='_blank'><b>Email</b></a> me</p>
+or <a href="mailto:bhavyakhurana.dev@gmail.com"><b>Email</b></a> me</p>
 
 ---
 
